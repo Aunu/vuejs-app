@@ -1,0 +1,10 @@
+vpc
+EKS
+EC2
+IAM
+S3 Versioning
+
+Amplify
+EFS (NAS)
+EBS
+
