@@ -2,6 +2,8 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import '../node_modules/@fortawesome/fontawesome-free/js/all.js';
 import './assets/style.css';
+import '../node_modules/tailwindcss/index.css';
+
 
 import router from './router/router';
 

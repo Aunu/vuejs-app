@@ -21,4 +21,7 @@ a:-webkit-any-link {
     cursor: pointer;
     text-decoration: none;
 }
+a:active {
+  text-decoration: underline;
+}
 </style>

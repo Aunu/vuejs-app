@@ -2,10 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 
-*{
-    margin: 0;
-    padding: 0;
-}
+
 nav{
     font-family: 'Ubuntu', sans-serif;
 }
@@ -113,10 +110,11 @@ nav ul li{
     cursor: pointer;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 400px){
 
   body {
     background-color: red;
   }
   
 }
+
